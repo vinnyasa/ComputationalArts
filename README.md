@@ -1,6 +1,9 @@
 # Processing
 
-Mobile app projects using processing(software) from MIT
+Mobile app projects using Processing software from MIT. 
+
+Digital projects to explore with graphics and animation. 
+Code in Java. 
 
 
 
