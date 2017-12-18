@@ -1,6 +1,6 @@
 # Processing
 
-Some mobile app projects using processing(software) from MIT
+Mobile app projects using processing(software) from MIT
 
 
 To push:
