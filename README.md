@@ -1,4 +1,4 @@
-# Processing
+# Computational Arts
 
 Mobile app projects using Processing software from MIT. 
 
